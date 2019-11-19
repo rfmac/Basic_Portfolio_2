@@ -1,0 +1,34 @@
+h1 {background-color: #4aaaa5;
+    margin-left: 80px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-style: solid;
+    border-color: #cccccc;
+}
+
+h2 {
+  background-color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  }
+
+a {float: right;}
+
+img {float: left;}
+
+#about_me {
+            float: left;
+            color:#777777;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+          }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#top_footer {background-color: #666666;}
+
+#bottom_footer {background-color:green;}
+
+
+
